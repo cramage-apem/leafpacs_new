@@ -4,7 +4,6 @@ Title: Calculate river LEAFPACS indices, predictiosn and classification
 Version: 0.1.1
 Author: Ian Humpheryes
 Maintainer: Tim Foster <tim.foster@sepa.org.uk>
-Edited by Calum Ramage for Apem Ltd
 Description: Pacakge to caluclate river LEAFPACS indices, predictions and classification.
 License: GPL (>= 3)
 Encoding: UTF-8
