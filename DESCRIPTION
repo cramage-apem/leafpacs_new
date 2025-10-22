@@ -1,7 +1,7 @@
 Package: leafpacs
 Type: Package
 Title: Calculate river LEAFPACS indices, predictiosn and classification 
-Version: 0.1.0
+Version: 0.1.1
 Author: Ian Humpheryes
 Maintainer: Tim Foster <tim.foster@sepa.org.uk>
 Description: Pacakge to caluclate river LEAFPACS indices, predictions and classification.
